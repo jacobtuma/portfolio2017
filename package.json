@@ -1,0 +1,22 @@
+{
+  "name": "portfolio2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jacobtuma@github.com/jacobtuma/portfolio2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobtuma/portfolio2017/issues"
+  },
+  "homepage": "https://github.com/jacobtuma/portfolio2017#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
