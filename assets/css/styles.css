@@ -1,0 +1,86 @@
+/*General*/
+body, html {
+	width: 100%;
+	height: 100%;
+}
+/*Index Page*/
+.main-container {
+	padding: 0;
+	margin: 0;
+}
+/*Header*/
+
+.header {
+	margin-top: -20px;
+	background: url('../img/ice-cave.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	/*background: #1a2a6c;
+	background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  
+	background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);*/
+}
+.header img {
+	width: 100%;
+	height: 100%;
+}
+/*Biography*/
+.biography {
+    background-attachment: fixed;
+    /*height: 500px;*/
+    background-position: left;
+    background-size: 600px;
+}
+.biography img {
+	width: 100%;
+	height: 100%;
+}
+/*Portfolio*/
+
+.portfolio {
+	padding: 40px 20px 0px;
+	height: 540px;
+	background: #666666;
+}
+.portfolio-icons {
+	margin-bottom: 20px;
+}
+.portfolio-icons a img, .portfolio-icons a:hover{
+	cursor: pointer;
+}
+.portfolio-content {
+	margin: 0 -20px;
+}
+.language-work {
+	padding: 15px 0 40px;
+}
+.react-work {
+	background-color: #59c1dc;
+}
+.react img {
+	width: 100%;
+	margin-left: -20px;
+}
+.angular-work {
+	background-color: #e0353d;
+}
+.angular-work h2 {
+	color: white;
+}
+.node-work h2 {
+	color: #272727;
+}
+.angular img {
+	width: 80%;
+	margin-top: 12px;
+}
+.node-work {
+	background-color: #8dc653;
+}
+.node img {
+	width: 80%;
+}
+
+.portfolio-content h2 {
+	text-align: center;
+}
+
