@@ -2,6 +2,8 @@
 body, html {
 	width: 100%;
 	height: 100%;
+	background-color: #e8c8c4;
+	position: relative;
 }
 /*Index Page*/
 .main-container {
@@ -25,10 +27,10 @@ body, html {
 }
 /*Biography*/
 .biography {
-    background-attachment: fixed;
-    /*height: 500px;*/
-    background-position: left;
-    background-size: 600px;
+	background-attachment: fixed;
+	/*height: 500px;*/
+	background-position: left;
+	background-size: 600px;
 }
 .biography img {
 	width: 100%;
@@ -39,7 +41,7 @@ body, html {
 .portfolio {
 	padding: 40px 20px 0px;
 	height: 540px;
-	background: #666666;
+	background: #123639;
 }
 .portfolio-icons {
 	margin-bottom: 20px;
@@ -96,3 +98,11 @@ body, html {
 	text-align: center;
 }
 
+footer {
+	background-color: #e8c8c4;
+	color: white;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
