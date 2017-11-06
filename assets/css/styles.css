@@ -71,7 +71,7 @@ body, html {
 .node-work h2 {
 	color: #272727;
 }
-.node-work img {
+.node-work img, .angular-work img {
 	width: 70%;
 }
 .angular img {
